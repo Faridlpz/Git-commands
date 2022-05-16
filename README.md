@@ -4,21 +4,21 @@ In this repository, I'll be practicing git commands and following its strategies
 Lets start by using Git
 
 Some commands used in Git and then Kubernetes:
-show
-add
-status 
-push
-pull 
+1. show
+2. add
+3. status 
+4. push
+5. pull 
 
 
 # kubernetes
 
 Commands used more frequently in kubernetes.
-apply -f + manifest.yaml
-delete f 
-get pods
-get svc
-get deployments 
+1. apply -f + manifest.yaml
+2. delete f 
+3. get pods
+4. get svc
+5. get deployments 
 
 This image below depicts my architecture as created via kubernetes.
 # Architecture of my app
