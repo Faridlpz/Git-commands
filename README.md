@@ -24,3 +24,5 @@ This image below depicts my architecture as created via kubernetes.
 # Architecture of my app
 ![alt text](architecture.png)
 
+Finally, I'll change Pod objects to Deployment to have replicas of my pod. What this means is that if one Pod fails, another takes its position. Therefore, the Deployment object is better and helps us modify our image without deleting it, as well as the service was added to the Deployment manifest to follow best practices.
+
