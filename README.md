@@ -36,4 +36,5 @@ So, starting off, I'm going to be using add.
 
 **Add** is used to upload your changes to the staging area.
 
+**git reset HEAD "file"** is used when your file is in a staging area and you need to get the file back to your working directory.
 
