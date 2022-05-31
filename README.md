@@ -26,3 +26,14 @@ This image below depicts my architecture as created via kubernetes.
 
 Finally, I'll change Pod objects to Deployment to have replicas of my pod. What this means is that if one Pod fails, another takes its position. Therefore, the Deployment object is better and helps us modify our image without deleting it, as well as the service was added to the Deployment manifest to follow best practices.
 
+---
+
+Continouing to practice with Git there is a folder called ./git inside of which you'll find folders and files that make up the git reposity.
+
+First of all, lets start by talking about add, status, push and pull common commands of Git.
+
+So, starting off, I'm going to be using add. 
+
+**Add** is used to upload your changes to the staging area.
+
+
