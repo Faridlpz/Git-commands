@@ -83,3 +83,11 @@ I've already applied this command to do a comparison between my working director
 
 I've already applied this command to do a comparison between my staging area against my last commit 
 as a reminder, I need to add something to my staging area.
+
+**git difftool commit commit**
+
+we use the last command to compare between two commits but not only two but also more than two commits
+before using it, you need to use other command to see your history of the commits for doing that 
+type the following command:
+
+git log --oneline
