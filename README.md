@@ -66,3 +66,8 @@ for example:
 * Specific file: myfile.txt
 * File pattern: *.txt
 * folder: my-folder/
+
+I've just used a new command to delete the cache stored in my repository in order to use gitignore.
+
+the command used is the following:
+ git rm -rf --cached . 
