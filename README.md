@@ -34,7 +34,24 @@ First of all, lets start by talking about add, status, push and pull common comm
 
 So, starting off, I'm going to be using add. 
 
-**Add** is used to upload your changes to the staging area.
+
+## Git common commands
+**git add ./file/folder** is used to upload your changes to the staging area.
 
 **git reset HEAD "file"** is used when your file is in a staging area and you need to get the file back to your working directory.
+
+**git status**
+
+we use git status to verify if we have any new changes to upload.
+
+**git commit**
+
+we use git commit to add a comment to our change.
+
+
+**git push**
+
+we use git push to upload our new changes to our gitrepository. The file will be send from our local to the repository
+
+**git pull**
 
