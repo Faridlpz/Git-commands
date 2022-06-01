@@ -69,5 +69,17 @@ for example:
 
 I've just used a new command to delete the cache stored in my repository in order to use gitignore.
 
+
 the command used is the following:
  git rm -rf --cached . 
+sample
+
+
+**git difftool HEAD** 
+
+I've already applied this command to do a comparison between my working directory and my last commit
+
+**git difftool --staged HEAD**
+
+I've already applied this command to do a comparison between my staging area against my last commit 
+as a reminder, I need to add something to my staging area.
