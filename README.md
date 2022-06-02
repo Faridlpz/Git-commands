@@ -54,7 +54,7 @@ we use git commit to add a comment to our change.
 we use git push to upload our new changes to our gitrepository. The file will be send from our local to the repository
 
 **git pull**
-
+Fetch
 
 
 
